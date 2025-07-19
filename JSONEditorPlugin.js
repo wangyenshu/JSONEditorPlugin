@@ -6,11 +6,10 @@
 |Author|YanshuWang, with the help of AI|
 |License|MIT|
 |~CoreVersion|2.x|
-***/
 !Installation:
 Add {{{jsonEdit}}} to [[ToolbarCommands]].
+***/
 //{{{
-
 // Ensure config.extensions.JSONEditor is defined for proper namespacing
 if (!config.extensions.JSONEditor) {
     config.extensions.JSONEditor = {};
