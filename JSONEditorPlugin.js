@@ -1,10 +1,11 @@
 /***
-|''Name:''|JSONEditorPlugin|
-|''Description:''|A GUI editor for JSON content in TiddlyWiki tiddlers. Companion plugin for innerTW5Plugin.|
-|''Version:''|0.1|
-|''Author:''|YanshuWang, with the help of AI|
-|''License:''|MIT|
-|''~CoreVersion:''|2.x|
+|Name|JSONEditorPlugin|
+|Description|A GUI editor for JSON content in TiddlyWiki tiddlers. Companion plugin for innerTW5Plugin.|
+|Version|0.1|
+|Source|https://github.com/wangyenshu/JSONEditorPlugin/blob/main/JSONEditorPlugin.js|
+|Author|YanshuWang, with the help of AI|
+|License|MIT|
+|~CoreVersion|2.x|
 ***/
 !Installation:
 Add {{{jsonEdit}}} to [[ToolbarCommands]].
